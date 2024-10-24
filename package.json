@@ -1,0 +1,8 @@
+{
+  "name": "stremio50",
+  "version": "1.0.0",
+  "description": "stremio50 desc",
+  "packageType": "app",
+  "appName": "stremio50",
+  "appPath": "index.html"
+}
